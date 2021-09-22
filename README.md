@@ -15,7 +15,7 @@ Android Development using ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&
 <p float="left">
   <img src="sshotandvid/ss1.jpg" width="250">
   <img src = "sshotandvid/ss2.jpg"  width = "250" >
-  <img src = "sshotandvid/ss3.jpg"  width = "250" >
+ 
 </p>
 
 ## Demo Video
