@@ -10,6 +10,7 @@ Android Development using ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&
 ## Things learnt:<br/>
 -Making a simple API call.</br>
 -Displaying Info. in Card View.<br/>
+-Implementing Progress Bar</br>
 
 ## Screenshots
 <p float="left">
